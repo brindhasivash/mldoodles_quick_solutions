@@ -4,4 +4,4 @@
 
 Code: matplotlib_set_axis_range.ipynb
 
-Blog link: https://mldoodles.com/matplotlib-set-axis-range/
+Blog link: [How to set axis range in matplotlib in Python?](https://mldoodles.com/matplotlib-set-axis-range/)
