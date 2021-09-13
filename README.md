@@ -17,3 +17,9 @@ Blog link: [How to save a plot in Matplotlib?](https://mldoodles.com/matplotlib-
 Code: matplotlib_save_plot_but_dont_show.ipynb
 
 Blog link: [How to save a plot but don't show in Matplotlib?](https://mldoodles.com/matplotlib-save-plot-but-dont-show/)
+
+## 4) Matplotlib - Save Plot - Saves a Blank Plot - Solution
+
+Code: matplotlib_saves_blank_plot.ipynb
+
+Blog link: [Solution: Matplotlib Save Plot - Saves a Blank plot](https://mldoodles.com/matplotlib-saves-blank-plot/)
